@@ -2,6 +2,7 @@
 # All scrips and tools are cloned by github
 this is my backup repo.. for bad times :D
 
+001
 ## Airattackit - Automated Wireless Attack Framework
 
 # Some Of Pre-installed Wireless Attack tools
@@ -20,7 +21,7 @@ this is my backup repo.. for bad times :D
 ________________________END
 
 
-
+002
 # piracy ⚓️
 
 
@@ -58,7 +59,7 @@ ________________________END
 ________________________END
 
 
-
+003
 # Wifi-Crack
 
 ## The Wifi-Crack program has 6 attack modes.
@@ -94,7 +95,7 @@ Zuerst installieren wir die notwendigen Bibliotheken, um dieses Skript korrekt a
 ________________________END
 
 
-
+004
 # WiBreak 
 
 Tool zur Automatisierung von Angriffen, um Hanshake- und PKMID-Angriffe zu erhalten und Chaos im Netzwerk zu verursachen, sogar um ein DOS zu verursachen (MIT VORSICHT VERWENDEN)
@@ -110,6 +111,7 @@ Und wir führen WiBreak.sh aus
 ________________________END
 
 
+005
 <h2>Shellbullly</h2>
 
 bash install.sh
@@ -121,6 +123,7 @@ bully
 ________________________END
 
 
+006
 # h4rpy
 
 
@@ -134,6 +137,7 @@ sudo ./h4rpy
 ________________________END
 
 
+007
 # AutoWPS-Skript
 
 Einfaches Auto WPS Pixie Dust Attack-Skript zum Gehen (mit Wifite2)
@@ -147,6 +151,8 @@ bash autoWPS.sh
 
 ________________________END
 
+
+008
 # Lscript
 
 ### How to run it
@@ -176,8 +182,7 @@ Type "update"
 ________________________END
 
 
-# Lazyaircrack
-
+009
 # Lazyaircrack
 
 ## Installing and requirements
@@ -203,9 +208,10 @@ ________________________END
 
 > Channel: As Wi-Fi data is digital, the signals are transmited and received on a certain frequency also known as channel.
 
-___________________________END
+________________________END
 
 
+010
 # pmkid-strip
 PMKID-Strip is a tool to strip the PMKID hash from a Wi-Fi CAP file for cracking with Hashcat
 
