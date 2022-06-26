@@ -171,3 +171,33 @@ Type "update"
 ```
 
 ________________________END
+
+
+# Lazyaircrack
+
+# Lazyaircrack
+
+## Installing and requirements
+- aircrack-ng
+- Linux or Unix-based system (Currently tested only on Kali Linux rolling)
+- Root access
+
+### Installing
++ **For Linux :**
+```
+~ ❯❯❯ git clone https://github.com/3xploitGuy/lazyaircrack.git
+
+~ ❯❯❯ cd lazyaircrack
+
+~/lazyaircrack ❯❯❯ chmod +x lazyaircrack.sh
+
+~/lazyaircrack ❯❯❯ ./lazyaircrack.sh
+```
+
+## Basics
+
+> BSSID: Basic service set identifiers, it recognizes the access point or router uniquely because it has address which creates the wireless network.
+
+> Channel: As Wi-Fi data is digital, the signals are transmited and received on a certain frequency also known as channel.
+
+___________________________END
