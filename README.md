@@ -140,6 +140,7 @@ Einfaches Auto WPS Pixie Dust Attack-Skript zum Gehen (mit Wifite2)
 
 Erforderliches Wifite2: https://github.com/derv82/wifite2
 
+apt install wifite
 
 bash autoWPS.sh
 
