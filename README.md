@@ -201,3 +201,12 @@ ________________________END
 > Channel: As Wi-Fi data is digital, the signals are transmited and received on a certain frequency also known as channel.
 
 ___________________________END
+
+
+# pmkid-strip
+PMKID-Strip is a tool to strip the PMKID hash from a Wi-Fi CAP file for cracking with Hashcat
+
+python pmkdid-strip <filename.cap> 
+
+
+________________________END
