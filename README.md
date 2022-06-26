@@ -1,6 +1,6 @@
 ## wifi-tools
-# All scrips and tool are cloned by github
-this is my backup repo
+# All scrips and tools are cloned by github
+this is my backup repo.. for bad times :D
 
 ## Airattackit - Automated Wireless Attack Framework
 
